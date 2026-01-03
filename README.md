@@ -17,8 +17,6 @@ This project simulates a complete parking cycle including entry, payment, and ex
 ## Project Structure
 
 * `src/`: Main application logic (Entry, Exit, Payment, Database).
-* `test/`: Simulation tools for bulk data loading and QR testing without a camera.
-* `data/`: CSV files for test data.
 * `database/`: SQLite database storage.
 * `output/`: Generated ticket images.
 
