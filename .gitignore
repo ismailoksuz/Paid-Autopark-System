@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & DB
+database/*.db
+output/
+data/*.csv
+
+# Media
+*.jpg
+*.png
+*.jpeg
